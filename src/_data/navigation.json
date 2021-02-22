@@ -19,6 +19,10 @@
       "text": "Instagram",
       "url": "https://instagram.com/gynesys",
       "external": true
+    },
+    {
+      "text": "About",
+      "url": "/about/"
     }
   ]
 }
