@@ -6,6 +6,10 @@
       "external": false
     },
     {
+      "text": "About",
+      "url": "/about/"
+    },
+    {
       "text": "Twitch",
       "url": "https://twitch.tv/gynesys",
       "external": true
@@ -19,10 +23,6 @@
       "text": "Instagram",
       "url": "https://instagram.com/gynesys",
       "external": true
-    },
-    {
-      "text": "About",
-      "url": "/about/"
     }
   ]
 }
