@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "Gynesys Games",
+  "shortDesc": "Asia is a renaissance woman (she/her) with a big 🧠 and even bigger 💖! She is a variety streamer and advocate for mental health and inclusion, coming to a Twitch stream near you!",
+  "url": "https://gynesys.games/",
+  "authorEmail": "gaming@asiahoe.com",
+  "authorHandle": "@gynesys",
+  "authorName": "Asia",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
