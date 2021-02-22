@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Games, Girlhood, & Girlhood
+title: Games, Girlhood, & Glory
 metaTitle: Gynesys Games
 metaDesc: ""
 postsHeading: Recent Posts
