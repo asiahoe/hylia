@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Games, Gadgets, and Girlhood "
+title: "Games, Glory, and Girlhood "
 metaDesc: "Gynesys is a "
 postsHeading: Recent Posts
 archiveButtonText: All Posts
