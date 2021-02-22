@@ -1,12 +1,13 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: "Games, Gadgets, and Girlhood "
+metaDesc: "Gynesys is a "
+postsHeading: Recent Posts
+archiveButtonText: All Posts
+socialImage: ""
 ---
+Gynesys is a renaissance woman (she/her) with a big brain 🧠 and an even bigger heart 💖! I am a variety streamer and advocate for mental health and inclusion, coming to a Twitch stream near you!
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Join me on my quest to get good at games, life, and love.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Follow me on [Twitter](https://twitter.com/gynesys), [Instagram](https://instagram.com/gynesys), and [Twitch](https://twitch.tv/gynesys)!
