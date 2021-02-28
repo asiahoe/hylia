@@ -15,11 +15,13 @@ tags:
 
 ## Comfort in Terror
 
-I first jumped into *Dead By Daylight* in October. Though Halloween was never going to be the same, I knew I could at least enjoy some spoopy content. Growing up, horror was very popular in my family. We would gather around for jump scares, gross outs, and lots of laughs. I rarely came to associate horror films with being truly scared. We spent most of the runtime roasting the victims for making ridiculous decisions, ultimately leading to their deaths.
+I first jumped into *Dead By Daylight* in October. Though Halloween was never going to be the same, I knew I could at least enjoy some spoopy content. Growing up, horror was very popular in my family. We would gather around for jump scares, gross outs, and lots of laughs. I rarely came to associate horror films with being truly scared. We spent most of the runtime roasting the victims for making ridiculous decisions, ultimately leading to their deaths. So I approached the game intending, for the most part, to laugh. Being consensually frightened is fun for me.
 
-Just about the only character that ever gave me nightmares was Freddy Krueger. I still recall one nightmare vividly. I sat at the kitchen table enjoying breakfast, light streaming in from the window, in what any Krueger victim might assume was the safest environment to be. Except he was seated across from me at the table, placing boiled eggs on each of his knives as he taunted me with one of his signature jokes So I approached the game intending, for the most part, to laugh. Being consensually frightened is fun for me.
+Just about the only character that ever gave me nightmares was Freddy Krueger. I still recall one nightmare vividly. In the dream, I sat at the kitchen table enjoying breakfast, light streaming in from the window, in what any Krueger survivor might assume was the safest environment to be. Except he was seated across from me at the table, sliding my carefully peeled boiled eggs onto each of his knives. As he taunted me with one of his signature jokes, the eggs bled. I woke from the dream in a hot sweat, uncertain of whether to laugh or cry. I shook it off and promptly went back to sleep. 
 
-![Freddy Krueger is featured in Dead By Daylight as "The Nightmare."](/images/210228-051933-deadbydaylight.png "The Nightmare AKA Freddy Krueger")
+![Freddy Krueger, licensed in Dead By Daylight as "The Nightmare."](/images/210228-051933-deadbydaylight.png "The Nightmare, one of the killers in Dead By Daylight, is a loving homage to Wes Craven's _Nightmare on Elm Street_ series and its antagonist, Freddy Krueger.")
+
+That said, I 
 
 In the game, you play either a killer with special abilities designed to help you trap, spook, and sacrifice survivors to a dark entity, or 
 
