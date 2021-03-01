@@ -1,19 +1,22 @@
 ---
 layout: layouts/post.njk
-title: Dead By Daylight's Toxicity Problem
-metaDesc: The Dead By Daylight community has a serious toxicity problem.
+title: Dead By Daylight
+metaDesc: Dead By Daylight is good fun, but its community has a serious toxicity problem.
 socialImage: /images/210228-031228-deadbydaylight.png
-date: 2021-02-28T08:34:28.650Z
+date: 2021-03-01T08:36:11.234Z
 tags:
   - community
   - competitive
   - dead-by-daylight
+  - gameplay
   - horror
   - player-vs-player
 ---
 2020 was an incredibly difficult year, and one of the major ways I coped was to double down on playing video games. Immersing myself in other worlds helped me escape from debilitating anxiety, grief, and loneliness, and bond with people all over the world. In a year that left me feeling powerless, paralyzed by the reality of back-to-back horrors in the world around me, I never imagined that I would take to such a dark and violent game as *[Dead By Daylight](https://deadbydaylight.com/en)*, the 2016 asymmetrical survival horror game from [Behavior Interactive](https://www.bhvr.com/).
 
 Now in its 5th year, the game has made a strong comeback. Quarantine has left many gamers in want of cooperative, team-based games, and *DBD* has quickly joined the ranks of *Fall Guys*, *Phasmophobia*, *Among Us*, and *JackBox* as one of the most popular titles. As Behavior has continued to release new content, features, and updates, this perfect storm has revitalized the game's fanbase. Though I'm having a blast learning the game and playing with a passionate fanbase and friends, the *Dead By Daylight* community, like so many player-vs-player multiplayer titles, has a serious toxicity problem.
+
+In this post, I talk about my experiences learning the game and dealing with some instances of toxic behavior.
 
 **Table of Contents**
 
@@ -103,4 +106,4 @@ The game offers a number of strategies, perks, and add-ons for Survivors to disc
 
 ## Conclusion
 
-While this isn't the first time I've encountered this kind of behavior in the gaming world, it is astonishingly common in the *DBD* community. Whether I win or lose, if I happen to match with PC players, I am bound to be met with griefing, trolling, and derision. The only time any praise or a "gg" is uttered is when I am the losing party. While the reporting system seems robust by design, it's not clear when action is taken for repeat offenses, if at all. I can only imagine how horrid this game would be if all players, had access to the chat. As to why it's only available to PC players and not others, I haven't the foggiest idea. In a world where most people have access to Discord, Steam chat or, some other means of communication, the textarea does little but incite bullying and harrassment. While it won't stop stream sniping or angry tweets, my recommendation would be to remove it, so that we might review my match stats and progress in peace.
+While this isn't the first time I've encountered this kind of behavior in the gaming world, it is astonishingly common in the *DBD* community. Whether I win or lose, if I happen to match with PC players, I am bound to be met with griefing, trolling, and derision. The only time any praise or a "gg" is uttered is when I am the losing party. While the reporting system seems robust by design, it's not clear when action is taken for repeat offenses, if at all. I can only imagine how horrid this game would be if all players had access to the chat. As to why it's only available to PC players and not others, I haven't the foggiest idea. In a world where most people have access to Discord, Steam chat or, some other means of communication, the textarea does little more than incite bullying and harassment. While it won't stop stream sniping or other undesirable retaliation from toxic players, my recommendation would be to disable it, so that we might review our match stats and progress in peace.
