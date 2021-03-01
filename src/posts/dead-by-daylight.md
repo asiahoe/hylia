@@ -20,11 +20,11 @@ In this post, I talk about my experiences learning the game and dealing with som
 
 **Table of Contents**
 
-1. **Comfort in Terror:** A brief history of my love of the horror genre.
-2. **Enter the Fog:** An introduction to the game's core mechanics.
-3. **Killing in the Name:** A closer look at my favorite way to play, Killer.
-4. **The Entity Is Displeased:** One of several incidents that inspired this article.
-5. **Death is Not An Escape:** An inquiry into the rampant toxicity in the community.
+1. **[Comfort in Terror](#heading-comfort-in-terror):** A brief history of my love of the horror genre.
+2. **[Enter the Fog](#heading-enter-the-fog):** An introduction to the game's core mechanics.
+3. **[Killing in the Name](#heading-killing-in-the-name):** A closer look at my favorite way to play, Killer.
+4. **[The Entity is Displeased](#heading-the-entity-is-displeased):** One of several incidents that inspired this article.
+5. **[Death is Not An Escape](#heading-death-is-not-an-escape):** An inquiry into the rampant toxicity in the community.
 
 ## Comfort in Terror
 
