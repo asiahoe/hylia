@@ -55,6 +55,7 @@ The  different perks and add-ons for each character, bought with the game's core
 Now in my 5th month of playing the game, I have developed some strong preferences in the game. I've learned I mostly prefer playing Killer, given the unique challenge and variety, as well as the shorter matchmaking time. I have settled on two mains, namely The Wraith and The Clown.
 
 ![A 4K with The Wraith achieved on my second run.](/images/210207-231453deadbydaylight-.png "A 4K with The Wraith achieved on my second run.")
+
 * The Wraith uses a cloaking ability to gain the upper hand and surprise Survivors who are not always able to detect his presence without certain perks. The Wraith doesn't seem very popular in The Fog, and this has actually been part of his appeal for me, along with his origin story.
 * Slightly more challenging is the Clown, who throws two types of bottles, one for buffing himself, and one for slowing Survivors, to take out his opponents from afar. I was really surprised that my throwing arm was relatively decent. It's been really fun to embody both of these characters.
 * Frankly, I find the vast majority of the Survivors to be mostly interchangeable, especially as you play with more of them overtime and unlock their universal perks for all of your characters. I'm not a player that spends a ton on collectibles like costumes, so this is even more true. I usually end up with Meg Thomas for her speed, or Kate Denson for her evasive maneuvers.
@@ -77,7 +78,7 @@ Trapper's setup approach makes him a strong contender for endgame wins, as you c
 
 Unfortunately, my opponents were not so happy with these results. One player, indeed one far more skilled than myself if our ranks are to believed, accused me of both "camping" and "tunnel vision."
 
-> **Level 7 Player:** you tunnel vision, camping piece of ****. holy hell like really***. <br>
+> **Level 7 Player:** you tunnel vision, camping piece of \*\*\*\*. holy hell like really \*\*\*. <br>
 > **Gynesys (16):** Don't know what that means, but have a good night. n_n <br>
 > **Level 11 Player:** you do know there was a total of four people in this game right?? <br>
 > **Gynesys (16):** Yeah and I got 'em all.
@@ -96,7 +97,7 @@ Camping is obviously a bad strategy, as it all but assures that a Killer cannot 
 
 Given the opposing team was already in the endgame, all they had to do was focus on the Exit Gates, but instead they chose to team up on my Trapper, falling into my traps in their desperate attempts to rescue their teammate. On Midwich as a Killer, it makes little sense to go into the classrooms if a limping Survivor is determined to run in a straight line down a hallway. While it is usually preferable to target a player who hasn't been downed yet in the earlier game, targeting an injured Survivor gives the Killer a more profound advantage in the endgame, particularly against a team that is determined (and rewarded) for getting every Survivor out alive.
 
-![You frickin' fricks just can't ever be quenced. When will you learn that your actions have consequences?!](https://media.giphy.com/media/3o7aTHHoyD2LwTE6Fa/giphy.gif "You frickin' fricks just can't ever be quenced. When will you learn that your actions have consequences?!")
+![You frickin' fricks just can't ever be quenched. When will you learn that your actions have consequences?!](https://media.giphy.com/media/3o7aTHHoyD2LwTE6Fa/giphy.gif "You frickin' fricks just can't ever be quenched. When will you learn that your actions have consequences?!")
 
 The game offers a number of strategies, perks, and add-ons for Survivors to discourage a Killer's repeated attempts to target them or their teammates, including Decisive Strike, Borrowed Time, exhaustion perks like Meg's Sprint Burst, hook sabotaging with the toolbox, and dazing the Killer with flashlights. This is by no means an exhaustive list, as my knowledge of Survivors is somewhat limited, but it's a start. Tunneling is a real thing, and not at all fun, for either party, but I emphasize that it was not what I did here. Camping and tunneling are beginners' strategies I've observed from new Killers, particularly when frustrated, but in my case, I simply targeted players whose lower skill levels were very apparent. This is apparent by the order of the deaths in the match. I'd wager a guess that the Level 7 player's rage likely cost them the win as well.
 
