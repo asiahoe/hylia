@@ -71,7 +71,7 @@ Trapper, on the other hand, is one of the recommended starting Killers, and for 
 
 ## The Entity is Displeased
 
-I recently won a game of _Dead By Daylight_ on the Midwich Elementary School map from the _Silent Hill_ series. I usually struggle on this map, as it feels larger than the vast majority of maps, given it has multiple floors and both indoor and outdoor partitions, as well as a labyrinth of classrooms and hallways. It's not a map that I know well, but I took it all in stride and did my best to use the strategies I practiced on outdoor maps; keep calm and lay bear traps.
+I recently won a game of *Dead By Daylight* on the Midwich Elementary School map from the *Silent Hill* series. I usually struggle on this map, as it feels larger than the vast majority of maps, given it has multiple floors and both indoor and outdoor partitions, as well as a labyrinth of classrooms and hallways. It's not a map that I know well, but I took it all in stride and did my best to use the strategies I practiced on outdoor maps; keep calm and lay bear traps.
 
 Trapper's setup approach makes him a strong contender for endgame wins, as you can use the duration of the match to anticipate where Survivors will end up in search of the last 2-3 Generators and Exit Gates. If you don't encounter Survivors in the early stages, you can almost certainly count on them coming to you, so it's best not to stay focused and plan ahead. I am by no means an expert at a measly level 10, but the game does do a great job of classifying The Trapper as an Easy Killer to learn. Given my relative lack of inexperience with this Killer and the Midwich map, I was exceptionally proud of myself for clinching a victory that was all but assured to my opponents, who had managed to pop all 5 Generators.
 
@@ -79,16 +79,20 @@ Trapper's setup approach makes him a strong contender for endgame wins, as you c
 
 Unfortunately, my opponents were not so happy with these results. One player, indeed one far more skilled than myself if our ranks are to believed, accused me of both "camping" and "tunnel vision."
 
-> **Level 7 Player:** you tunnel vision, camping piece of ****. holy hell like really ***.
-**Gynesys (16):** Don't know what that means, but have a good night. n_n
-**Level 11 Player:** you do know there was a total of four people in this game right??
-**Gynesys (16):** Yeah and I got 'em all.
+> **Level 7 Player:** you tunnel vision, camping piece of ****. holy hell like really*** .
+> **Gynesys (16):** Don't know what that means, but have a good night. n_n
+> **Level 11 Player:** you do know there was a total of four people in this game right??
+> **Gynesys (16):** Yeah and I got 'em all.
 
-I wasn't familiar with the term at the time, though I could certainly glean what he meant after the fact. The insult, mostly blocked out by the game's obscenity filter, was amusing at best, so I wished the player a goodnight as I reviewed my results. But their friend chimed in with a condescending remark in support. So much for _peaceful_. I could not resist meeting their rage and derision with sarcasm, before closing the match for the next one. That's about the extent of my own toxicity. Rage just ensures the next game is even more worse off.
+I wasn't familiar with the term at the time, though I could certainly glean what he meant after the fact. The insult, mostly blocked out by the game's obscenity filter, was amusing at best, so I wished the player a goodnight as I reviewed my results. But their friend chimed in with a condescending remark in support. So much for *peaceful*. I could not resist meeting their rage and derision with sarcasm, before closing the match for the next one. That's about the extent of my own toxicity. Rage just ensures the next game is even more worse off.
 
 ## Death Is Not An Escape
 
-This exchange might have been a prime opportunity to teach another player about why "tunneling" is bad, but instead they chose to insult me, or attempted to. Tunneling is apparently the strategy of single-mindedly targeting a single player. Many toxic Survivors presume that targeting the hooked player after another Survivor rescues them, rather than the Survivor who initiated the rescue is also a kind of tunneling, but I don't agree. It makes sense to punish players for rescuing their teammates while the killer is nearby, rather than focusing on the central tasks, as in in this scenario, opening the Exit Gates. "Slugging," or downing multiple players in succession, is an alternative approach, but by no means a realistic endeavor on an enclosed map that is unfamiliar to me. While I recognize why tunneling might be deemed an unskillful approach, the game doesn't seem to punish this behavior all that much, relative to camping, which is when players hang around on the hooks to keep Survivors from being rescued, and this makes sense.
+This exchange might have been a prime opportunity to teach another player about why "tunneling" is bad, but instead my opponents chose to insult me, or attempted to. Tunneling is apparently the strategy of single-mindedly targeting a single player. Many toxic Survivors presume that targeting the hooked player after another Survivor rescues them, rather than the Survivor who initiated the rescue is also a kind of tunneling, but I don't agree. It makes sense to punish players for rescuing their teammates while the killer is nearby, rather than focusing on the central tasks, as in in this scenario, opening the Exit Gates. "Slugging," or downing multiple players in succession, is an alternative approach, but by no means a realistic endeavor on a large, enclosed map with multiple levels.
+
+![The game's ranking system is gives clear feedback on how to improve. My chase needs work.](/images/210207-002910-deadbydaylight.png "The game's ranking system is gives clear feedback on how to improve. My chase needs work.")
+
+While I recognize how tunneling might be deemed an unskillful approach, the game's stance on this is clear. The ranking system doesn't punish this behavior at all, relative to camping, where points are actively deducted from The Killer. In fact, Survivors who make risky rescues with the Killer downing previously hooked Survivors within seconds of the rescue have points deducted immediately. There is no such deduction for Killers who target vulnerable, injured survivors.
 
 Camping is obviously a bad strategy, as it all but assures that a Killer cannot target the rest of the opposing team while babysitting a single opponent until their death. The game is designed for the chase, and rewards this, while actively deducting points for spending time near a hooked player. At 31,113 score, it was clear the game did not determine that I had camped very much at all. I do place traps near hooks for Survivors who are naive enough not to watch their step, and that requires a brief moment near the hooks. However, whether targeting a recently rescued player is a bad strategy depends on the map and progress downing other players on the opposing team. If a limping Survivor remains within range of a Killer's lunge relative to another player who skillfully goes to another room or jumps from an obstacle, it makes the most sense for the Killer to target the former, especially when it's clear the team will come to their aid.
 
@@ -98,4 +102,4 @@ The game offers a number of strategies, perks, and add-ons for Survivors to disc
 
 ## Conclusion
 
-While this isn't the first time I've encountered this kind of behavior in the gaming world, it is astonishingly common in the DBD community. Whether I win or lose, if I happen to match with PC players, who have access to the chat textarea, I am bound to be met with griefing, trolling, and derision. The only time a gg is uttered is when I am the losing party. I can only imagine how horrid this game would be if all players had access to chat.  
+While this isn't the first time I've encountered this kind of behavior in the gaming world, it is astonishingly common in the DBD community. Whether I win or lose, if I happen to match with PC players, who have access to the chat textarea, I am bound to be met with griefing, trolling, and derision. The only time a gg is uttered is when I am the losing party. I can only imagine how horrid this game would be if all players had access to chat.
