@@ -33,6 +33,7 @@ I first jumped into *Dead By Daylight* in October. Though Halloween was never go
 Just about the only horror villain that ever gave me nightmares was Freddy Krueger. I still recall one nightmare vividly. In the dream, I sat at the kitchen table enjoying breakfast, light streaming in from the window, in what any Krueger survivor might assume was the safest environment to be. Except he was seated across from me at the table, sliding my carefully peeled boiled eggs onto each of his knives. As he taunted me with one of his signature jokes, the eggs bled. I woke from the dream in a hot sweat, uncertain of whether to laugh or cry. I shook it off and promptly went back to sleep.
 
 ![Freddy Krueger, licensed in Dead By Daylight as "The Nightmare."](/images/210228-051933-deadbydaylight.png "The Nightmare, one of the Killers in Dead By Daylight, is a loving homage to Wes Craven's _Nightmare on Elm Street_ series and its antagonist, Freddy Krueger.")
+
 With the exception of *The Texas Chainsaw Massacre* (2003) and certain subsequent films of *Saw* (2004), which I found incredibly grotesque, erring on the side of torture porn, I genuinely love horror content, and video games are hardly an exception. In fact, *Resident Evil 2* was my first and most memorable foray into the survival horror genre, and one I absolutely intend to revisit on this blog, and on stream. I recently purchased the franchise on Steam after a ridiculous sale following the announcement of *Resident Evil 8*. For now, however, *Dead By Daylight* is a mainstay in my library.
 
 ## Enter the Fog
