@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Learning Chess
+metaDesc: Chess is a joy to learn.
 socialImage: /images/210308-211050-learnchess.png
 date: 2021-03-09T04:39:10.602Z
 tags:
@@ -16,7 +17,7 @@ While video games were a huge pastime in my family, boardgames were never too fa
 
 ![The interface from Chess.com.](/images/210308-211050-learnchess.png "The interface from Chess.com. Clearly I've got a lot of learning to do.")
 
-I joined Chess.com in November and began to learn a little each day. Though I fell out of practice after a little while I did take a ridiculous amount of notes to help me retain my knowledge. The nice thing is that I could learn from chess.com, whether I was at my desk or in bed on my phone. Back in February, our merry band of fledgling chess enthusiasts held a little tournament. While I did lose against my opponent, I thoroughly enjoyed trying my hand at a game against a real player. It absolutely is really fun to intermingle theory with practice.
+I joined Chess.com in November and began to learn a little each day. Though I fell out of practice after a little while, I did take [a ridiculous amount of notes](https://www.notion.so/asiah/Chess-4aac433d2cd84f2692923bf533b0cc34) to help me retain my knowledge. The nice thing is that I could learn from chess.com, whether I was at my desk or in bed on my phone. Back in February, our merry band of fledgling chess enthusiasts held a little tournament. While I did lose against my opponent, I thoroughly enjoyed trying my hand at a game against a real player. It absolutely is really fun to intermingle theory with practice.
 
 ![My notes about the algebraic notation of chess.](/images/210308-233217-chessnotes.png "My notes about the algebraic notation of chess.")
 
