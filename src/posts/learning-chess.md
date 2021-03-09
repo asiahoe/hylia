@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Learning Chess
 metaDesc: Chess is a joy to learn.
 socialImage: /images/210308-211050-learnchess.png
-date: 2021-03-09T04:39:10.602Z
+date: 2021-03-08T04:39:10.602Z
 tags:
   - chess
   - tabletop
