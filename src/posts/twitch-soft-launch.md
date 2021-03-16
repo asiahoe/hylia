@@ -4,9 +4,9 @@ title: Twitch Soft launch
 metaTitle: Twitch Soft launch
 metaDesc: I've been doing some small tests for my stream on Twitch. Care to join me?
 socialImage: /images/210315-235154-twitch1.png
-date: 2021-03-16T02:47:09.434Z
+date: 2021-03-15T02:47:09.434Z
 tags:
-  - Updates
+  - updates
   - Twitch
 ---
 Last week I did a soft launch of my [Twitch stream](https://twitch.tv/gynesys) reboot. I've been sitting on designs in Figma for a month or two now, and while they were mostly complete, I found myself stuck and slowing as I made small, insignificant tweaks. As a designer, I should have known better than to keep my work close to the chest, rather than testing it with my audience, but the perfectionist in me prevailed. 
