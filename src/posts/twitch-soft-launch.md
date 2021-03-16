@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Twitch Soft launch
 metaTitle: Twitch Soft launch
 metaDesc: I've been doing some small tests for my stream on Twitch. Care to join me?
-socialImage: /images/210315-235154-twitch1.png
+socialImage: https://gynesys.games/images/210315-235154-twitch1.png
 date: 2021-03-15T02:47:09.434Z
 tags:
   - updates

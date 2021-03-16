@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Dead By Daylight
 metaDesc: Dead By Daylight is good fun, but its community has a serious toxicity problem.
-socialImage: /images/210228-031228-deadbydaylight.png
+socialImage: https://gynesys.games/images/210228-031228-deadbydaylight.png
 date: 2021-03-01T09:44:44.319Z
 tags:
   - community
