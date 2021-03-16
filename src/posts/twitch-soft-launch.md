@@ -16,11 +16,11 @@ Thankfully, with the encouragement of my friends, designers and gamers alike, I 
 
 ![Raided by friends on my first night back, flaws and all!](/images/210315-235154-twitch1.png "Raided by friends on my first night back, flaws and all!")
 
-The first night I played a little bit of \_Hades\_ and \_Dead By Daylight\_. Though I was only live for a short while, this test stream quickly revealed some quirks with my overlays and workflow that I couldn't see until they were already implemented in OBS. There were gaps in the UI, and I found I didn't actually like for the chats to disappear. On the hardware side, I learned that my streams were entirely too loud. It's kind of subjective, but even with the guidance from the audience, I would lower it even more. I would have never learned that had I not gone live.
+The first night I played a little bit of _Hades_ and _Dead By Daylight_. Though I was only live for a short while, this test stream quickly revealed some quirks with my overlays and workflow that I couldn't see until they were already implemented in OBS. There were gaps in the UI, and I found I didn't actually like for the chats to disappear. On the hardware side, I learned that my streams were entirely too loud. It's kind of subjective, but even with the guidance from the audience, I would lower it even more. I would have never learned that had I not gone live.
 
 ![The transform feature in OBS Studio.](/images/210316-002948-obs.png)
 
-The second stream I played a little of \_Paper Mario: The Origami King\_. This broadcast game me even more insights about how to improve. I discovered I can use the transform feature in OBS to match the designs in Figma, pixel for pixel. This was a huge help as it was much easier to correct the gaps in the UI from the last stream. It was heartwarming to see friends from different times of my life come to the stream with warmth, affection, and enthusiasm. Though I was exhausted, it gave me a lot of energy.
+The second stream I played a little of _Paper Mario: The Origami King_. This broadcast game me even more insights about how to improve. I discovered I can use the transform feature in OBS to match the designs in Figma, pixel for pixel. This was a huge help as it was much easier to correct the gaps in the UI from the last stream. It was heartwarming to see friends from different times of my life come to the stream with warmth, affection, and enthusiasm. Though I was exhausted, it gave me a lot of energy.
 
 ![All smiles during my second night live.](/images/210315-234835-twitch2.png "All smiles during my second night live.")
 
