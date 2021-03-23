@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Know Thyself
 metaDesc: Musings on The Matrix and what it means to know oneself.
 socialImage: https://gynesys.games/images/210323-005919-singularity.png
-date: 2021-03-23T02:35:30.113Z
+date: 2021-03-22T02:35:30.113Z
 tags:
   - close reading
   - film
