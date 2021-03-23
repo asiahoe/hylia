@@ -5,9 +5,10 @@ metaDesc: Musings on The Matrix and what it means to know oneself.
 socialImage: https://gynesys.games/images/210323-005919-singularity.png
 date: 2021-03-23T02:35:30.113Z
 tags:
+  - close reading
   - film
   - psychology
-  - close reading
+  - sci-fi
 ---
 March 31st will mark 22 years since this, my favorite film of all time was released in theaters. When *The Matrix* dropped in 1999, I didn't know it existed. I saw it for the first time in 2001 as a newly minted high schooler, and the film immediately made a home in my consciousness for good. It seemed it was on HBO everyday, and I made time to watch it, even if it was just for a scene or two. At one time I had it memorized. With *Matrix* memes making the rounds in one of my favorite Discord communities, I find myself in *The Desert of the Real* once again, trying to find myself.
 
