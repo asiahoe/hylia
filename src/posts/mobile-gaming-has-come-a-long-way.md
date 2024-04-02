@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Mobile Gaming Has Come A Long Way
 metaDesc: My friends invited me to play two mobile games this week.
 socialImage: /images/honkai-star-rail-screenshot-2024.04.01-21.52.24.83.png
-date: 2024-04-01T21:52:06.694Z
+date: 2024-04-02T03:47:59.887Z
 tags:
   - mobile
   - Android
